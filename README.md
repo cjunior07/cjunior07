@@ -1,6 +1,8 @@
 # 👋 Hi there
 
-Olá,sou o Cláudio e sou QA Engineer com 4 anos de experiência em testes de software. Trabalhei com os seguintes níveis de teste: API REST, UI (Web e Mobile), Performance e Aceitação. Atualmente atuo com um time de especialistas com o objetivo de apoiar tecnicamente os QA’s, padronizar processos, avaliar custos, buscar inovação e escalar a qualidade na Dock. Tenho experiência em atuações dentro da squads de produto participando de todo o ciclo de vida do projeto e também experiência com gestão técnica de QAs com foco em testes manuais e automatizados. Possuo pós graduação em Engenharia de Software com Ênfase em Qualidade e Testes, possuo também certificação AWS Cloud Practitioner e cursos em teste de software focados em conceitos, técnicas e o melhor uso da automação.
+Olá, sou o Cláudio e sou QA Engineer com um pouco mais de 4 anos de experiência em testes de software. Trabalhei com os seguintes níveis de teste: API REST, UI (Web e Mobile), Performance e Aceitação. 
+Atualmente atuo com um time de especialistas com o objetivo de apoiar tecnicamente os QA’s, padronizar processos, avaliar custos, buscar inovação e escalar a qualidade na Dock. Tenho experiência em atuações dentro da squads de produto participando de todo o ciclo de vida do projeto e também experiência com gestão técnica de QAs com foco em testes manuais e automatizados. 
+Possuo pós graduação em Engenharia de Software com Ênfase em Qualidade e Testes, possuo também certificação AWS Cloud Practitioner e cursos em teste de software focados em conceitos, técnicas e o melhor uso da automação.
 
 ## Test Stacks
 ![Cucumber](https://img.shields.io/badge/-Cucumber-brightgreen?style=for-the-badge&logo=cucumber&logoColor=white)
