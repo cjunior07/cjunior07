@@ -87,7 +87,8 @@ Possuo pós graduação em Engenharia de Software com Ênfase em Qualidade e Tes
 
 ## 🏅 certifications:
 
-<a href="https://www.credly.com/badges/d31e9665-6f60-4fd4-9bf8-73b405c94d2e"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Descrição da imagem" style="width:150px;"></a>
+<a href="https://www.credly.com/badges/d31e9665-6f60-4fd4-9bf8-73b405c94d2e"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="Descrição da imagem" style="width:150px;">
+<img src="https://bstqb.org.br/b9/img/logo/ireb_200.png" alt="Descrição da imagem" style="width:300px;"></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qa-claudio-junior/)
