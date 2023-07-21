@@ -4,8 +4,6 @@ Olá, sou o Cláudio e sou QA Engineer com um pouco mais de 4 anos de experiênc
 Atualmente atuo com um time de especialistas com o objetivo de apoiar tecnicamente os QA’s, padronizar processos, avaliar custos, buscar inovação e escalar a qualidade na Dock. Tenho experiência em atuações dentro da squads de produto participando de todo o ciclo de vida do projeto e também experiência com gestão técnica de QAs com foco em testes manuais e automatizados. 
 Possuo pós graduação em Engenharia de Software com Ênfase em Qualidade e Testes, possuo também certificação AWS Cloud Practitioner e cursos em teste de software focados em conceitos, técnicas e o melhor uso da automação.
 
-![Snake animation](https://github.com/cjunior07/cjunior07/blob/output/github-contribution-grid-snake.svg) 
-
 ## Test Stacks
 ![Cucumber](https://img.shields.io/badge/-Cucumber-brightgreen?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
